@@ -1,5 +1,7 @@
 ## new course
 
+
 vamos ver a diferença
 
-conflifg não existem
+Visualizando as alterações de conflitos
+
